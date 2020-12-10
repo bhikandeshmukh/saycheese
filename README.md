@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://github.com/bhikandeshmukh"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
  <a href="https://github.com/bhikandeshmukh/Termux-Keys"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0" ></a>
- <a href="https://github.com/bhikandeshmukh"><img title="Stars" src="https://img.shields.io/github/stars/bhikandeshmukh/instagram-bruteforce?style=social" ></a>
+ <a href="https://github.com/bhikandeshmukh"><img title="Stars" src="https://img.shields.io/github/stars/bhikandeshmukh/saycheese?style=social" ></a>
 </p>
 
 # SayCheese
@@ -24,7 +24,7 @@ Take webcam shots from target just sending a malicious link
 [See more about MediaDEvices.getUserMedia() here](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia)
 <p> To convince the target to grant permissions to access the cam, the page uses a javascript code made by https://github.com/wybiral that turns the favicon into a cam stream.</p>
 
-## Installing (Kali Linux/Termux):
+## Installing (Kali Linux, Ubuntu, Termux):
 
 ```
 git clone https://github.com/bhikandeshmukh/saycheese
